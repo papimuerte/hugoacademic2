@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Academic # Website name
-baseurl: '' # Website URL
+baseurl: '/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
@@ -22,8 +22,8 @@ removePathAccents: true
 
 module:
   imports:
-    - path: https://github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms
-    - path: https://github.com/wowchemy/wowchemy-hugo-modules/wowchemy
+    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms
+    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy
 
 ############################
 ## ADVANCED
