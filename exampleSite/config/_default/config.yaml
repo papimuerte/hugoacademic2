@@ -5,7 +5,6 @@
 
 title: Academic # Website name
 baseurl: '' # Website URL
-relativeURLs = true
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
