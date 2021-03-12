@@ -6,7 +6,7 @@
 title: Academic # Website name
 baseurl: '' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
-theme = "academic"
+
 
 ############################
 ## LANGUAGE
